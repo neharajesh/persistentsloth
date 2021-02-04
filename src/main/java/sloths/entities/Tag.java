@@ -6,7 +6,6 @@ import sloths.enums.TagNames;
 
 import javax.persistence.*;
 
-@Entity
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity

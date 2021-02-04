@@ -7,7 +7,6 @@ import sloths.enums.RoleNames;
 
 import javax.persistence.*;
 
-@Entity
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
